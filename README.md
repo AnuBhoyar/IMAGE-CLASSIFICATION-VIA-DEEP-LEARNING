@@ -1,5 +1,6 @@
 # IMAGE-CLASSIFICATION-VIA-DEEP-LEARNING
 Employed Artificial Neural network and Convolution Neural Netwrok on CIFAR-10 Dataset.
+
 CIFAR-10 has 10 classes and CNN classified images with better accuracy than ANN. 
 
 Estiblished classification on Fashion_Mnist dataset of 10 classes and applied both ANN and CNN.
